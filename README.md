@@ -1,10 +1,10 @@
 ## Hi there 👋😄 I'm Oleksandr, Full Stack Developer 
 
-💻 Programming: Proficient in JavaScript, TypeScript, React, Node.js, and Next.js.
-🧩 Problem-Solving: Tenacious and skilled at resolving challenges.
-🤝 Teamwork: Collaborative and adept at cross-functional communication.
-⏰ Deadline Management: Effective at meeting project timelines, even under pressure.
-I am currently open to new opportunities and professional connections. Feel free to reach out to me.
+ 💻 Programming: Proficient in JavaScript, TypeScript, React, Node.js, and Next.js. 
+ 🧩 Problem-Solving: Tenacious and skilled at resolving challenges.
+ 🤝 Teamwork: Collaborative and adept at cross-functional communication.
+ ⏰ Deadline Management: Effective at meeting project timelines, even under pressure.
+ I am currently open to new opportunities and professional connections. Feel free to reach out to me.
 
 ---
 ### 📫 How to reach me: 
@@ -17,6 +17,10 @@ I am currently open to new opportunities and professional connections. Feel free
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,graphql)](https://skillicons.dev)
 
+
+---
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=blackyhat&theme=nord_dark)
 
 ---
 ### ⚙️ GitHub Analytics
